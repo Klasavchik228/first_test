@@ -1,8 +1,8 @@
 ## Git шпаргалка
 ---
-_git config --global user.name/email ""_ - это инициализация пользователя
-_git init URL_ - обозначаем папку репозиторием
-_git remote add origin URL_ - связь с удалённым репозиторием на GitHub
+_git config --global user.name/email ""_ - это инициализация пользователя  
+_git init URL_ - обозначаем папку репозиторием  
+_git remote add origin URL_ - связь с удалённым репозиторием на GitHub  
 _git clone URL_ - клонирование удалённого репозитория на компьютер
 _git add_ добавление файлов готовых к коммиту
 _git commit -m ""_ добавление и коммита
